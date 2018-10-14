@@ -1124,7 +1124,7 @@ class Account extends Component {
                 </div>
           }
           {
-            IS_TESTNET && <div className="row mt-3">
+            <div className="row mt-3">
               <div className="col-md-12">
                 <div className="card">
                   <div className="card-body text-center">
